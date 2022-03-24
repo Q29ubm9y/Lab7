@@ -1,0 +1,10 @@
+com\mycompany\lab7\models\User_.class
+com\mycompany\lab7\dataaccess\UserDB.class
+com\mycompany\lab7\servlets\UserServlet.class
+com\mycompany\lab7\services\RoleService.class
+com\mycompany\lab7\dataaccess\RoleDB.class
+com\mycompany\lab7\models\Role_.class
+com\mycompany\lab7\services\UserService.class
+com\mycompany\lab7\dataaccess\DBUtil.class
+com\mycompany\lab7\models\Role.class
+com\mycompany\lab7\models\User.class
